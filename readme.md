@@ -1,11 +1,11 @@
 <!-- Image Insight API README -->
 
 
-# Image Insight API
+# Analyze Image API
 
 ## Overview
 
-The Image Insight API is a RESTful service developed to analyze images using the GPT4v external image analysis API and returns meaningful descriptions. This API provides a user-friendly endpoint for uploading images, handles image data securely and efficiently, and ensures robust error handling for network issues, invalid inputs, and external API failures.
+The Analyze Image  API is a RESTful service developed to analyze images using the GPT4v external image analysis API and returns meaningful descriptions. This API provides a user-friendly endpoint for uploading images, handles image data securely and efficiently, and ensures robust error handling for network issues, invalid inputs, and external API failures.
 
 ## Features
 
@@ -17,13 +17,12 @@ The Image Insight API is a RESTful service developed to analyze images using the
 
 1. **Clone the Repository:**
     ```bash
-    # Extract the contents of the zip folder
-    unzip image_insight_api.zip
+    git clone https://github.com/UsamaMansoor7/analyze-image-api.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd image_insight_api
+    cd analyze_image_api
     ```
 
 3. **Create and Activate a Virtual Environment:**
